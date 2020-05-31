@@ -34,4 +34,5 @@ class HomeViewModel : ViewModel() {
     fun onNavigatedToSearch() {
         _navigateToSearch.value = false
     }
+
 }
